@@ -9,6 +9,7 @@ Source0:	http://goodies.xfce.org/releases/xfce4-datetime-plugin/%{name}-%{versio
 Requires:	xfce4-panel >= 4.4.2
 BuildRequires:	xfce4-panel-devel >= 4.4.2
 BuildRequires:	perl(XML::Parser)
+BuildRequires:	intltool
 Obsoletes:	xfce-datetime-plugin
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
