@@ -10,6 +10,7 @@ Requires:	xfce4-panel >= 4.4.2
 BuildRequires:	xfce4-panel-devel >= 4.4.2
 BuildRequires:	perl(XML::Parser)
 BuildRequires:	intltool
+BuildRequires:	libxfcegui4-devel
 Obsoletes:	xfce-datetime-plugin
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
