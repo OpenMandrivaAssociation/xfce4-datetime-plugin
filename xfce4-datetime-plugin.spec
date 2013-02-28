@@ -31,8 +31,8 @@ A date and time panel plugin for the Xfce panel.
 
 %files -f %{name}.lang
 %doc ChangeLog AUTHORS
-%{_libdir}/xfce4/panel-plugins/*
-%{_datadir}/xfce4/panel-plugins/datetime.desktop
+%{_libdir}/xfce4/panel/plugins/libdatetime.so
+%{_datadir}/xfce4/panel/plugins/datetime.desktop
 
 
 %changelog
