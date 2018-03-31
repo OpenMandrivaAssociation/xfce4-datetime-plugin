@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   xfce4-datetime-plugin-0.6.2.tar.bz2: 5a7e665fcfd06859c45e14b7063d719b5b26885f
+sources:
+  xfce4-datetime-plugin-0.7.0.tar.bz2: f9f5abe851d4755433739500ceb7fe0876a6dd64
