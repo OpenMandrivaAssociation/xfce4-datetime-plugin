@@ -3,7 +3,7 @@
 
 Summary:	A date and time panel plugin for the Xfce panel
 Name:		xfce4-datetime-plugin
-Version:	0.7.0
+Version:	0.7.1
 Release:	1
 License:	GPLv2+
 Group:		Graphical desktop/Xfce
